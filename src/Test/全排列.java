@@ -1,8 +1,7 @@
 package Test;
 
 public class È«ÅÅÁĞ {
-	public static void pailie(char [] string) {
-		
+	public static void pailie(char [] string) {		
 	}
 	public static void name(char [] string) {
 		if (string == null||string.length == 0) {
