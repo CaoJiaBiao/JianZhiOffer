@@ -2,6 +2,7 @@ package 动态规划;
 
 public class 背包 {
 
+
 	public static void beibao(int []w,int []v,int c,int number) {
 		int [][]m= new int [number+1][c+1];
 		for (int i = 0; i <= c; i++) {
