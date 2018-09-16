@@ -11,6 +11,7 @@ public class È«ÅÅÁĞ {
 			pailie(string);
 		}
 	}
+	
 	public static void main(String[] args) {
 		char [] test = {'a','b','c','d'};
 		name(test);
